@@ -1,0 +1,2 @@
+- src: CyVerse-Ansible.jupyterhub
+  name: jupyterhub
