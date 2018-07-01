@@ -1,5 +1,5 @@
 - src: CyVerse_Ansible.docker
   name: docker
 
-- src: Cyverse_Ansible.jupyterhub
+- src: CyVerse_Ansible.jupyterhub
   name: jupyterhub
